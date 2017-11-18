@@ -8,7 +8,7 @@ public class Script1 : MonoBehaviour {
 	void Start () {
 		
 	}
-	
+    //Вася, помоги блэт, напиши инициализацию, я прост хз как это сделать.
 	// Update is called once per frame
 	void Update () {
 		
